@@ -10,7 +10,9 @@ kalau menurut saya, dari soal no 1 menggunakan 2 table yaitu table transaksi dan
 saya jawab di directory /Unit Test/javascript.js
 
 # No 3
-saya jawab di directory /Cypress/cypress/integration/common/checkOut.feature
+saya jawab di directory :
+/common/checkOut.feature
+/common/Steps/schenarioSteps.js
 
 # No 4
 saya jawab di directory :
