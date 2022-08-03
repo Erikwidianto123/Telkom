@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--Replace suite name or add new suite with sheet name-->
+<suite name="TestAll">
+    <suite-files>
+        <suite-file path="Tests/Schenario1.java"/>
+        <suite-file path="Tests/Schenario2.java"/>
+        <suite-file path="Tests/Schenario3.java"/>
+        <suite-file path="Tests/Schenario4.java"/>
+    </suite-files>
+</suite> <!-- Suite -->
