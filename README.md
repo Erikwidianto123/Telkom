@@ -7,7 +7,7 @@ biasanya saya menggunakan query SQL untuk testing dari sisi database. perlu dica
 kalau menurut saya, dari soal no 1 menggunakan 2 table yaitu table transaksi dan table delivery. keduannya saling punya relasi namun ada anomali saat create transaksi bisa jadi logic saat create transaksinya salah. maka dari itu perlu dilakukan black box testing mulai dari create transaksi sampai transaksinya selesai di create.
 
 # No 2
-saya jawab di directory /no2/javascript.js
+saya jawab di directory /Unit Test/javascript.js
 
 # No 3
 saya jawab di directory /Cypress/integration/common/checkOut.feature
