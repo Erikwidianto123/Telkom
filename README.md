@@ -11,14 +11,19 @@ saya jawab di directory /Unit Test/javascript.js
 
 # No 3
 saya jawab di directory :
+
 /common/checkOut.feature
+
 /common/Steps/schenarioSteps.js
 
 # No 4
 saya jawab di directory :
 /automation test/src/main/java/Tests/Schenario1.java
+
 /automation test/src/main/java/Tests/Schenario2.java
+
 /automation test/src/main/java/Tests/Schenario3.java
+
 /automation test/src/main/java/Tests/Schenario4.java
 
 user guide ada di file readme /automation test/readme.md
